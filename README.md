@@ -1,0 +1,2 @@
+# Mirai
+Meni birinchi blogim
